@@ -1,2 +1,12 @@
 # GradTrip
 Graduation Trip 2022
+
+
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://www.w3docs.com'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://www.w3docs.com">this link</a>.</p>
+  </body>
+</html>
